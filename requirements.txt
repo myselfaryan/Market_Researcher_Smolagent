@@ -1,0 +1,26 @@
+# Core dependencies
+requests>=2.28.1
+beautifulsoup4>=4.11.1
+pandas>=1.5.0
+numpy>=1.23.3
+matplotlib>=3.6.0
+seaborn>=0.12.0
+scikit-learn>=1.1.2
+
+# NLP and AI tools
+transformers>=4.25.1
+sentence-transformers>=2.2.2
+nltk>=3.7
+spacy>=3.4.1
+
+# Web and API
+fastapi>=0.85.0
+uvicorn>=0.18.3
+httpx>=0.23.0
+aiohttp>=3.8.3
+
+# Utilities
+python-dotenv>=0.21.0
+pyyaml>=6.0
+tqdm>=4.64.1
+colorama>=0.4.5
